@@ -1,0 +1,7 @@
+.o
+.obj
+.lib
+.a
+.vscode
+build
+build_*
